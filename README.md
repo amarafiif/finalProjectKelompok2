@@ -1,5 +1,6 @@
-# finalProjectKelompok2
+# finalProjectKelompok2 
 Aplikasi kasir sederhana yang di peruntukkan bagi pelaku usaha jasa titip agar bisa melakukan transaksi secara digital.
+<p>Kami menamakannya Aplikasi Kasir XIBANTER</p>
 
 <h2>Beberapa Fitur Sederhana</h2>
 <p> - Menghitung transaksi berdasarkan berat barang dan juga jumlah barang.</p>
